@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Test Update",
+  "pub_date": "2026-11-06T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMUVrakxwaXR4aXFuMFh6YlpoMjJueFA3VThjamlLTTk0Mklmb0xHZUZlSkJ4eHdxOGRsa1o1TzhOVjUyYmN6OFpER2ZKR3NaM0VaRnZkUmVMbzVab0lINnRZZWs5TGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM1MTQ0CWZpbGU6ZmxhcmVfMC4xLjFfeDY0LXNldHVwLmV4ZQp4Z0hVZEc0NlVVUjNIRkJ1cEsxQU4yd2ZZakpsNkoyYzBiUEVQdFAzcTJIdm53aDIzV1l3MDZhekpnMytKaTlrTHg0TTNwanBHMmVvMzlzeUh4MW5EUT09Cg==",
+      "url": "https://github.com/kindlykiller2016-ops/Flare-Server/releases/download/v0.1.1/flare_0.1.1_x64-setup.exe"
+    }
+  }
+}
